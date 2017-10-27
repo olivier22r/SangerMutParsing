@@ -1,0 +1,800 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"gb",
+				"gbID\tstatement"
+			],
+			[
+				"inp",
+				"inputFetch\tstatement"
+			],
+			[
+				"AA",
+				"AAseq\tstatement"
+			],
+			[
+				"AAs",
+				"AAseqList\tstatement"
+			],
+			[
+				"MMC",
+				"MMCIF2Dict"
+			],
+			[
+				"pdb",
+				"pdbFile\tstatement"
+			],
+			[
+				"User",
+				"userInputType"
+			],
+			[
+				"user",
+				"userInput\tstatement"
+			],
+			[
+				"seq",
+				"seqList\tstatement"
+			],
+			[
+				"matchs",
+				"matchScore"
+			],
+			[
+				"prot",
+				"protSeq\tstatement"
+			],
+			[
+				"file",
+				"files"
+			],
+			[
+				"dist",
+				"distDB"
+			],
+			[
+				"dark",
+				"darkblue"
+			],
+			[
+				"set_yti",
+				"set_yticks"
+			],
+			[
+				"set_y",
+				"set_yticklabels"
+			],
+			[
+				"_",
+				"__file__\tinstance"
+			],
+			[
+				"__",
+				"__name__\tinstance"
+			],
+			[
+				"set_x",
+				"set_xlabel"
+			],
+			[
+				"tight",
+				"tight_layout"
+			],
+			[
+				"tigh",
+				"tight_layout"
+			],
+			[
+				"ticks",
+				"ticksLabel\tstatement"
+			],
+			[
+				"hea",
+				"heatMapData2\tstatement"
+			],
+			[
+				"par",
+				"parsedDataTable\tstatement"
+			],
+			[
+				"pale",
+				"paleblue2"
+			],
+			[
+				"heat",
+				"heatMapData"
+			],
+			[
+				"countLis",
+				"countListB\tstatement"
+			],
+			[
+				"countL",
+				"countListPB\tstatement"
+			],
+			[
+				"countPer",
+				"countPercB"
+			],
+			[
+				"countP",
+				"countPercPB"
+			],
+			[
+				"num",
+				"numberMaxOfMutation\tparam"
+			],
+			[
+				"number",
+				"numberMaxOfMutation\tstatement"
+			],
+			[
+				"countLi",
+				"countListB\tstatement"
+			],
+			[
+				"countList",
+				"countListPB\tstatement"
+			],
+			[
+				"countDark",
+				"countDarkBlueSum\tstatement"
+			],
+			[
+				"count",
+				"countPercDB"
+			],
+			[
+				"Coun",
+				"CountDB"
+			],
+			[
+				"picke",
+				"pickedPositions\tstatement"
+			],
+			[
+				"all",
+				"allList"
+			],
+			[
+				"pick",
+				"pickedPositions\tstatement"
+			],
+			[
+				"pi",
+				"pickedPositions"
+			],
+			[
+				"B",
+				"BpickedPositions"
+			],
+			[
+				"PB",
+				"PBpickedPositions"
+			],
+			[
+				"DB",
+				"DBpickedPositions\tstatement"
+			],
+			[
+				"qual",
+				"qualScoreList\tparam"
+			],
+			[
+				"matchS",
+				"matchScoreFwd\tstatement"
+			],
+			[
+				"matc",
+				"matchScoreRev\tstatement"
+			],
+			[
+				"mat",
+				"matchScoreFwd"
+			],
+			[
+				"rev",
+				"reversecomplement"
+			],
+			[
+				"protei",
+				"proteinEnd\tstatement"
+			],
+			[
+				"match",
+				"matchScore1\tstatement"
+			],
+			[
+				"global",
+				"globalxs"
+			],
+			[
+				"glo",
+				"globalAlignment"
+			],
+			[
+				"local",
+				"localAlignment"
+			],
+			[
+				"rec",
+				"recordSeqList\tstatement"
+			],
+			[
+				"reco",
+				"recordSeq"
+			],
+			[
+				"ali",
+				"alignedRef\tparam"
+			],
+			[
+				"ou",
+				"outputTable\tstatement"
+			],
+			[
+				"pro",
+				"proteinEnd\tstatement"
+			],
+			[
+				"aligne",
+				"alignedSeq\tparam"
+			],
+			[
+				"alig",
+				"alignedRef\tparam"
+			],
+			[
+				"m",
+				"mkdir\tfunction"
+			],
+			[
+				"fast",
+				"fastqFiles\tstatement"
+			],
+			[
+				"infil",
+				"infilename3\tstatement"
+			],
+			[
+				"infi",
+				"infilename3\tstatement"
+			],
+			[
+				"copy",
+				"copyname\tstatement"
+			],
+			[
+				"inf",
+				"infilename2\tstatement"
+			],
+			[
+				"conv",
+				"convertedTxt\tstatement"
+			],
+			[
+				"txt",
+				"txtFiles\tstatement"
+			],
+			[
+				"index",
+				"IndexError\tclass"
+			],
+			[
+				"mut",
+				"mutCount\tstatement"
+			],
+			[
+				"inde",
+				"realIndex"
+			],
+			[
+				"Mut",
+				"MutCount\tstatement"
+			],
+			[
+				"ins",
+				"insShift\tstatement"
+			],
+			[
+				"aligned",
+				"alignedSeq\tstatement"
+			],
+			[
+				"record",
+				"recordSeq\tstatement"
+			],
+			[
+				"fi",
+				"fileNames\tstatement"
+			],
+			[
+				"ab1",
+				"ab1Files\tstatement"
+			],
+			[
+				"align",
+				"alignedSeq\tparam"
+			],
+			[
+				"forma",
+				"format_alignment"
+			],
+			[
+				"fo",
+				"format\tfunction"
+			],
+			[
+				"WT",
+				"WTres\tstatement"
+			],
+			[
+				"Wt",
+				"WTcodonTable"
+			],
+			[
+				"al",
+				"alignedSeq"
+			],
+			[
+				"Seq",
+				"SeqIO\tmodule"
+			],
+			[
+				"S",
+				"SeqIO"
+			],
+			[
+				"ma",
+				"matchScore1\tstatement"
+			],
+			[
+				"trans",
+				"translate\tfunction"
+			],
+			[
+				"tra",
+				"translate\tfunction"
+			],
+			[
+				"recor",
+				"recordSeq\tparam"
+			],
+			[
+				"re",
+				"refSeq\tstatement"
+			],
+			[
+				"be",
+				"bestFrame\tstatement"
+			],
+			[
+				"Fil",
+				"FileNames\tstatement"
+			],
+			[
+				"ref",
+				"refSeq\tstatement"
+			],
+			[
+				"Aa",
+				"AAalignedSeq\tstatement"
+			],
+			[
+				"Mu",
+				"MutCodonTable\tstatement"
+			],
+			[
+				"codo",
+				"codonTable\tstatement"
+			],
+			[
+				"w",
+				"writeInFile"
+			],
+			[
+				"unk",
+				"unkn3\tstatement"
+			],
+			[
+				"idex",
+				"indexList\tstatement"
+			],
+			[
+				"Fi",
+				"FisherTestCorrection\tfunction"
+			],
+			[
+				"Fisher",
+				"FisherTest"
+			],
+			[
+				"PositionRe",
+				"PositionReadDist"
+			],
+			[
+				"sorted",
+				"sortedFisherTable"
+			],
+			[
+				"fisher",
+				"fisher_exact"
+			],
+			[
+				"sorte",
+				"sortedFisherTable"
+			],
+			[
+				"fisherTa",
+				"fisherTable"
+			],
+			[
+				"fis",
+				"fisherTablePBB"
+			],
+			[
+				"fisherTableDBB",
+				"fisherTableDBB"
+			],
+			[
+				"data",
+				"dataTable"
+			],
+			[
+				"Count",
+				"CountDarkPred"
+			],
+			[
+				"C",
+				"CountPalePred"
+			],
+			[
+				"counD",
+				"countDarkBlueSum"
+			],
+			[
+				"countp",
+				"countPercDB"
+			],
+			[
+				"countda",
+				"countDarkBlueSum"
+			],
+			[
+				"countD",
+				"CountPalePred"
+			],
+			[
+				"fra",
+				"fragmentCountTotal"
+			],
+			[
+				"fr",
+				"fragmentCountTotal"
+			],
+			[
+				"pos",
+				"posID"
+			],
+			[
+				"from",
+				"from_list"
+			],
+			[
+				"set",
+				"set_xticklabels"
+			],
+			[
+				"set_xti",
+				"set_xticks"
+			],
+			[
+				"WTse",
+				"WTsequenceList"
+			],
+			[
+				"sile",
+				"remSilentMut"
+			],
+			[
+				"from_",
+				"from_items\tfunction"
+			],
+			[
+				"he",
+				"heatMap\tfunction"
+			],
+			[
+				"h",
+				"heatMapData"
+			],
+			[
+				"rem",
+				"remSilentMut\tstatement"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "pa",
+		"selected_items":
+		[
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"git push",
+				"git: push"
+			],
+			[
+				"git st",
+				"git: status"
+			],
+			[
+				"git",
+				"git: tags"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"vir",
+				"Virtualenv: New"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"repl",
+				"SublimeREPL: Python"
+			],
+			[
+				"sublime",
+				"SublimeREPL: Python"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"install p",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 412.0
+	},
+	"console":
+	{
+		"height": 209.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Olivier/Dropbox/monCode/Daniela/Sequencing Daniela/SangMutParser.py",
+		"/C/Users/Olivier/Dropbox/monCode/ScriptsVirtuenzyme/sequence/get-pip.py",
+		"/C/Users/Olivier/Dropbox/monCode/ScriptsVirtuenzyme/testtttt.py",
+		"/C/Python27/monCode/Daniela/SangerMutParsing/SangMutParser.py",
+		"/C/Users/Olivier/Dropbox/monCode/Scripts Virtuenzyme/test.py",
+		"/C/Python27/monCode/OLI_parsing2V7.py",
+		"/C/Python27/monCode/OLI_test_thresholdfinder2V2.py",
+		"/C/Python27/monCode/get-pip.py",
+		"/C/Python27/monCode/OLIMUT.py",
+		"/C/Python27/monCode/Daniela/SequencingDaniela/ABIparserV6workingV.py",
+		"/C/Python27/monCode/Daniela/SequencingDaniela/ABIparserV7.py",
+		"/C/Python27/monCode/Daniela/SequencingDaniela/ABIparserV6.py",
+		"/C/Python27/monCode/Daniela/ABIparserV6.py",
+		"/C/Python27/monCode/Daniela/Sequencing Daniela/ABIparserV6.py",
+		"/C/Python27/monCode/Daniela/Sequencing Daniela/ABIparserV4.py",
+		"/C/Python27/monCode/Daniela/Sequencing Daniela/ABIparserV3.1.py",
+		"/C/Python27/monCode/Daniela/Sequencing Daniela/ABIparser.py",
+		"/C/Python27/monCode/Daniela/Sequencing Daniela/ABIparserV2.py",
+		"/C/Python27/monCode/OLIMUT_align.py",
+		"/C/Users/Olivier/AppData/Roaming/Sublime Text 3/Packages/SublimeREPL/Main.sublime-menu",
+		"/C/Python27/ProtStrucViz/ProtStrucViz/visualizer.py",
+		"/C/Python27/ProtStrucViz/Subplatformtest.py",
+		"/C/Python27/PythonExcel/PythonExcelV2.py",
+		"/C/Users/Olivier/AppData/Roaming/Sublime Text 3/Packages/User/max.sublime-build",
+		"/C/Python27/monCode/OLI_test_thresholdfinderV13.py",
+		"/C/Python27/monCode/heatMap.py",
+		"/C/Users/Olivier/Desktop/UdM/maitrise/P450/Pymol/script_bumps.py",
+		"/C/Python27/monCode/OLI_parsingV9.py",
+		"/C/Python27/monCode/OLI_test_thresholdfinder2V1.py",
+		"/C/Python27/monCode/test.py",
+		"/C/Python27/monCode/Old but gold/OLI_parsingV5.py",
+		"/C/Python27/monCode/test3.py",
+		"/C/Python27/ProtStrucViz/hello-world/test.py",
+		"/C/Python27/monCode/cairoTest.py",
+		"/C/Python27/test.py",
+		"/C/Python27/PythonExcel/xml2xlsx/xml2xlsx/__init__.py",
+		"/C/Python27/PythonExcel/xml2xlsx/xml2xlsx/command_line.py",
+		"/C/Users/Olivier/AppData/Roaming/Sublime Text 3/Packages/SublimeREPL/config/Python/Main.sublime-menu",
+		"/C/Users/Olivier/AppData/Roaming/Sublime Text 3/Packages/User/SublimeREPL-python3.sublime-build",
+		"/C/Python27/test2.py",
+		"/C/Python27/ProtStrucViz/test.py",
+		"/C/Users/Olivier/AppData/Roaming/Sublime Text 3/Packages/User/SublimeREPL-python.sublime-build",
+		"/C/Python27/monCode/test2.py",
+		"/C/Python27/monCode/# NumPy arrays.py",
+		"/C/Python27/monCode/DATA ANALYSIS.py",
+		"/C/Python27/monCode/OLI_test_thresholdfinderV11.py",
+		"/C/Python27/MorphPro/MorphPro.py",
+		"/C/Python27/MorphPro/webm.py",
+		"/C/Python27/MorphPro/ffmpeg.py",
+		"/C/Python27/MorphPro/MorphProV2.py",
+		"/C/Python27/monCode/OLI_parsingV14.py",
+		"/C/Python27/monCode/OLI_parsingV11.py",
+		"/C/Python27/monCode/OLI_parsingV12.py",
+		"/C/Python27/monCode/OLI_parsing_classtest.py",
+		"/C/Python27/monCode/OLI_test_thresholdfinderV6.py",
+		"/C/Python27/monCode/OLI_parsingV5.py",
+		"/C/Python27/monCode/OLI_test_thresholdfinderV4 - class.py",
+		"/C/Python27/Enrich2-master/analysis/test analyse.py",
+		"/C/Python27/Enrich2-Example-master/Results/testexample.py",
+		"/C/Python27/monCode/process_reads.py",
+		"/C/Python27/Enrich2-master/enrich2/overlap.py",
+		"/C/Python27/Enrich2-master/enrich2/variant.py",
+		"/C/Python27/monCode/# different type in array.py",
+		"/C/Python27/Enrich2-master/enrich2/barcodevariant.py",
+		"/C/Python27/Enrich2-master/enrich2/aligner.py",
+		"/C/Python27/Enrich2-master/build/lib/enrich2/wildtype.py",
+		"/C/Python27/Enrich2-master/build/lib/enrich2/basic.py",
+		"/C/Python27/Enrich2-master/build/lib/enrich2/dataframe.py",
+		"/C/Python27/BM3WTxho1_pCWORI.fa",
+		"/C/Python27/Enrich2-master/enrich2/experiment.py",
+		"/C/Python27/Enrich2-Example-master/Results/test example.py",
+		"/C/Python27/Enrich2-master/analysis/test example.py",
+		"/C/Python27/Enrich2-master/enrich2/__init__.py",
+		"/C/Python27/monCode/# dictionaries.py",
+		"/C/Python27/monCode/helloWorld2.py",
+		"/C/Python27/monCode/helloWorld.py"
+	],
+	"find":
+	{
+		"height": 32.0
+	},
+	"find_in_files":
+	{
+		"height": 108.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 32.0
+	},
+	"input":
+	{
+		"height": 44.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/Python/Python.sublime-build",
+	"project": "SangMutParser.sublime-project",
+	"replace":
+	{
+		"height": 60.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
