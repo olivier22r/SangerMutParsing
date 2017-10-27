@@ -1,3 +1,22 @@
+"""
+############################################################################################################################################
+Parsing of the Sanger sequences with a script
+A script to extract automatically the mutations in Sanger sequence files in format abi, fastq and txt
+
+Author: Olivier Rousseau
+olivier22r@hotmail.com
+University of Montreal
+http://www.esi.umontreal.ca/~pelletjo/member/olivier.html
+virtuenzyme.com
+
+1-Read files in folder, convert if necessary and store name in table
+2-Open the sequencing files in different format (ABI, fastq, txt) 
+3-Align sequence of each file to reference
+4-Extract the mutations in the sequence
+5-Write mutations in file
+############################################################################################################################################
+"""
+
 import os.path
 import numpy as np
 import pandas as pd
@@ -311,3 +330,4 @@ if __name__ == '__main__':
     # input: reference, region dinteret, minimum match score for alignment, folder avec sequence, folder de sauvegarde, cocher les paramettres a extraire, choisir type de fichier output (excel, txt,csv...)
 # ajouter le code sur arnold pour que le lab puisse lutiliser
 # faire un github
+# ajouter une fonction pour generer une figure pymol avec differente couleur sur les residus muter et propriete du residu muter
