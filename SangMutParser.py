@@ -1,7 +1,11 @@
 """
 ############################################################################################################################################
 Parsing of the Sanger sequences with a script
+<<<<<<< HEAD
 A script to extract automatically the mutations in Sanger sequence files in format abi, fastq and txt
+=======
+A script to extract automatically the mutations in Sanger sequence files in format abi, fastq and txa
+>>>>>>> 4d592c8c284cd172f6a7e4f2864d05a16db18ffa
 
 Author: Olivier Rousseau
 olivier22r@hotmail.com
